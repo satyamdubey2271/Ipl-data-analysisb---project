@@ -6,7 +6,7 @@ dataset using python. it explores various statics such as team most win matches 
 which team score hisghest run in middle,powerplay and death over in ipl matches,toss winner,player of the match and his team name. the goal is to uncover interesting trends and insights from ipl history.
 
 ##Dataset
-the dataset is taken from github (https://www.github.com/datsets) 
+the dataset is taken from github (https://github.com/awesomedata/awesome-public-datasets) 
 
 ##Technologies used
 python
